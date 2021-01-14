@@ -10,8 +10,8 @@
       "sprite": {
         "imagePath": "https://github.com/benoit-camaro/embd_projector/blob/main/sprite100.png",
         "singleImageDim": [
-          50,
-          50
+          300,
+          300
         ]
       }
     }
