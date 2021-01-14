@@ -4,8 +4,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        100,
-        2048
+        2048,
+        100
       ],
       "tensorPath": "https://raw.githubusercontent.com/benoit-camaro/embd_projector/main/feature_vecs100.tsv",
       "sprite": {
