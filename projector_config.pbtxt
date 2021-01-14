@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/benoit-camaro/embd_projector/blob/main/feature_vecs100.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/benoit-camaro/embd_projector/blob/main/sprite100.jpg",
+        "singleImageDim": [
+          50,
+          50
+        ]
+      }
+    }
+  ]
+}
