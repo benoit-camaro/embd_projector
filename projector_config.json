@@ -6,7 +6,7 @@
         100,
         2048
       ],
-      "tensorPath": "https://github.com/benoit-camaro/embd_projector/blob/main/feature_vecs100.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/benoit-camaro/embd_projector/main/feature_vecs100.tsv",
       "sprite": {
         "imagePath": "https://github.com/benoit-camaro/embd_projector/blob/main/sprite100.jpg",
         "singleImageDim": [
